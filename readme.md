@@ -32,4 +32,4 @@ Uma extensão para navegador que permite visualizar todas as abas abertas, inclu
 ## 🖼️ Imagens
 
 *### Visualização das abas:
-![Visualização das abas](https://ibb.co/LDWfrQdG)
+![Visualização das abas](https://i.postimg.cc/YCF8PvDY/imagem-2025-04-20-011725699.png)

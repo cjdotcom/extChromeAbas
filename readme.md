@@ -31,11 +31,5 @@ Uma extensão para navegador que permite visualizar todas as abas abertas, inclu
 
 ## 🖼️ Imagens
 
-*(adicione aqui suas capturas de tela ou gifs demonstrativos)*
-
----
-
-## 📋 Licença
-
-Este projeto está sob a licença [MIT](LICENSE).
-
+*### Visualização das abas:
+![Visualização das abas](https://ibb.co/LDWfrQdG)

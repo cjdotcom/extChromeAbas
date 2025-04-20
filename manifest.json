@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Cadê?",
+  "version": "1.7",
+  "description": "Mostra todas as abas abertas e permite mudar de aba ao clicar.",
+  "permissions": ["tabs"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}

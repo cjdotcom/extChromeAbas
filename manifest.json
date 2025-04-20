@@ -1,7 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Cadê?",
-  "version": "1.7",
+  "name": "Tabs Viewer",
+  "short_name": "Tabs Viewer",
+  "version": "2.2",
   "description": "Mostra todas as abas abertas e permite mudar de aba ao clicar.",
   "permissions": ["tabs"],
   "action": {
